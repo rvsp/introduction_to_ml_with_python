@@ -8,3 +8,5 @@ dependencies:
   - pillow
   - graphviz
   - python-graphviz
+  - imageio
+  - joblib
